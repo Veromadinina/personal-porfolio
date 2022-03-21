@@ -6,11 +6,12 @@ menu.onclick = () =>{
     header.classList.toggle('active');
 
 }
+/*
 window.onscroll = () =>{
     menu.classList.remove('fa-times');
     header.classList.remove('active');
 
-}
+}*/
 
 let cursor1 = document.querySelector('.cursor-1');
 let cursor2 = document.querySelector('.cursor-2');
